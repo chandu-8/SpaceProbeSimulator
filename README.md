@@ -6,9 +6,9 @@ A physics engine-based simulator designed to model and optimize a space mission 
 
 * Trajectory Simulation: Simulates the probe's journey through the solar system using advanced numerical methods:
 
-  ** Euler Method
-  ** Runge-Kutta Method (4th Order)
-  ** Verlet Method
+  * Euler Method
+  * Runge-Kutta Method (4th Order)
+  * Verlet Method
 
 * Closed-Loop Control: Implements a PID-based controller to stabilize and guide the lander during descent and ascent on Titan.
 
@@ -25,13 +25,13 @@ A physics engine-based simulator designed to model and optimize a space mission 
 
 * Launch the simulation by running 'App.java'
 * Use the GUI controls to:
-  ** Navigate between celestial body views
-  ** Adjust simulation speed
+  * Navigate between celestial body views
+  * Adjust simulation speed
 
 ## Contributors
 
-Benjamin Gauthier
-Gunda Karnite
-Hemachandra Konduru
-Simon Köhl
-Michelle Lear
+- Benjamin Gauthier
+- Gunda Karnite
+- Hemachandra Konduru
+- Simon Köhl
+- Michelle Lear
