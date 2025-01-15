@@ -32,6 +32,6 @@ A physics engine-based simulator designed to model and optimize a space mission 
 
 - Benjamin Gauthier
 - Gunda Karnite
-- Hemachandra Konduru
 - Simon Köhl
+- Hemachandra Konduru
 - Michelle Lear
