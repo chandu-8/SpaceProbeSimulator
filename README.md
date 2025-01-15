@@ -4,7 +4,7 @@ A physics engine-based simulator designed to model and optimize a space mission 
 
 ## Features
 
-* Trajectory Simulation: Simulates the probe's journey through the solar system using numarical ODE solvers:
+* Trajectory Simulation: Simulates the probe's journey through the solar system using numerical ODE solvers:
 
   * Euler Method
   * Runge-Kutta Method (4th Order)
