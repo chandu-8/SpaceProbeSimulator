@@ -4,13 +4,13 @@ A physics engine-based simulator designed to model and optimize a space mission 
 
 ## Features
 
-* Trajectory Simulation: Simulates the probe's journey through the solar system using advanced numerical methods:
+* Trajectory Simulation: Simulates the probe's journey through the solar system using numarical ODE solvers:
 
   * Euler Method
   * Runge-Kutta Method (4th Order)
   * Verlet Method
 
-* Closed-Loop Control: Implements a PID-based controller to stabilize and guide the lander during descent and ascent on Titan.
+* Closed-Loop Control: Implements a PID-based controller to stabilize and guide the lander during descent on Titan.
 
 * Wind Modeling: Simulates Titan's stochastic wind patterns for realistic landing conditions.
 
