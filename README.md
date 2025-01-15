@@ -1,11 +1,37 @@
-# Project1-2
+# Space Probe Simulator
 
-## How to run our code
+A physics engine-based simulator designed to model and optimize a space mission to Saturn's moon, Titan. This project integrates numerical methods, control systems, and trajectory planning to simulate the mission from Earth to Titan and back, ensuring fuel efficiency and safe landing.
 
-Please download this repository, unzip it and navigate into the root folder of this project.
+## Features
 
-## !!! Please make sure you have JavaFx installed !!!
+* Trajectory Simulation: Simulates the probe's journey through the solar system using advanced numerical methods:
 
-To run our program simply type "./gradlew run" into the terminal/ command line window, and hit enter.
+  ** Euler Method
+  ** Runge-Kutta Method (4th Order)
+  ** Verlet Method
 
-For Windows: type in "gradlew run" instead of "./gradlew run"
+* Closed-Loop Control: Implements a PID-based controller to stabilize and guide the lander during descent and ascent on Titan.
+
+* Wind Modeling: Simulates Titan's stochastic wind patterns for realistic landing conditions.
+
+* Graphical User Interface: Visualizes the solar system, trajectory, and landing using JavaFX.
+
+## Required Software
+
+* Java SE 8 (recommended, as it comes with JafaFX) or higher
+* JavaFX (can be installed from https://openjfx.io) [Note: Separate install of JavaFX requied for Java SE versions != 8]
+
+## Usage
+
+* Launch the simulation by running 'App.java'
+* Use the GUI controls to:
+  ** Navigate between celestial body views
+  ** Adjust simulation speed
+
+## Contributors
+
+Benjamin Gauthier
+Gunda Karnite
+Hemachandra Konduru
+Simon Köhl
+Michelle Lear
