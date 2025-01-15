@@ -23,7 +23,7 @@ A physics engine-based simulator designed to model and optimize a space mission 
 
 ## Usage
 
-* Launch the simulation by running 'App.java'
+* Launch the simulation by running `App.java`
 * Use the GUI controls to:
   * Navigate between celestial body views
   * Adjust simulation speed
